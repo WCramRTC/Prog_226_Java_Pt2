@@ -11,6 +11,6 @@ package com.wcram.prog_226_java_pt2;
 public class Prog_226_Java_Pt2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Manjula!");
     }
 }
